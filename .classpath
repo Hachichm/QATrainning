@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="qatrainning/" kind="src" path="QATrainning/src"/>
+	<classpathentry kind="src" path="QATrainning/src/qatrainning"/>
+	<classpathentry kind="lib" path="QATrainning/dist/QATrainning.jar"/>
+	<classpathentry kind="output" path="QATrainning/build/classes"/>
+</classpath>
